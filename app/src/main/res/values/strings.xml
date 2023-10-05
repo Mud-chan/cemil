@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">daftarSCP</string>
+    <array name="daftarscp">
+        <item>Makaroni Pedas</item>
+        <item>Keripik Kaca</item>
+        <item>Basreng</item>
+        <item>Makaroni Muter</item>
+        <item>Mie Lidi</item>
+        <item>Keripik Singkong</item>
+
+
+    </array>
+
+</resources>
